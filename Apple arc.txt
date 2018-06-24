@@ -1,0 +1,42 @@
+__________________________________________________________
+
+------------------ Apple Arc OSX Theme -------------------
+__________________________________________________________
+
+
+Develpoer: Umayanga Sandeepa
+
+
+----- GNOME 3.20 COMPATIBLE -----
+
+
+* Mac OSX "show apps" dash icon
+* OSX top Panel
+* OSX-Arc-White GTK theme
+
+
+---- Special Thanks ----
+
+ LinxGem33 - creator of OSX-Arc-White theme
+http://gnome-look.org/content/show.php/OSX-Arc-White?content=175666
+
+ elbullazul - creator of OS X El Capitan theme
+http://gnome-look.org/content/show.php/OS+X+10.11+El+Capitan?content=174139
+
+ horst3180 - Creator of Arc theme
+https://github.com/horst3180/arc-theme
+
+
+---- Recommended Icon theme ----
+
+ Capitan
+http://gnome-look.org/content/show.php/Capitan+Icon+theme?content=176054
+
+
+---- Recommended cursor theme ----
+ OSX-ElCap
+
+
+---- Wallpaper ----
+http://gnome-look.org/content/show.php/Mac+OSX+El+Capitan+Wallpaper?content=175824 
+
